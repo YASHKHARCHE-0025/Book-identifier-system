@@ -1,0 +1,13 @@
+pandas
+string
+scikit-learn
+Tfidf Vectorizer
+difflib
+
+
+data scraping
+
+bs4(Beautiful Soup)
+requests
+string
+pandas
